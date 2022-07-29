@@ -37,7 +37,7 @@ jobs:
         name: ${{ matrix.file }}_${{ github.actor }}
         retention-days: 5
         path: |
-          *.hex
           *.bin
+          *.hex
           *.uf2
       continue-on-error: true
