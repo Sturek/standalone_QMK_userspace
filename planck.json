@@ -1,7 +1,7 @@
 {
     "author": "",
     "documentation": "Wrapper based keymap",
-    "keyboard": "planck/rev6",
+    "keyboard": "kbdfans/niu_mini",
     "keymap": "Sturek",
     "layers": [
         [ "BASE" ],
