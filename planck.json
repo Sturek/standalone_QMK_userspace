@@ -2,7 +2,7 @@
     "author": "",
     "documentation": "Wrapper based keymap",
     "keyboard": "planck/rev6",
-    "keymap": "derbonk",
+    "keymap": "Sturek",
     "layers": [
         [ "BASE" ],
         [ "LOWER" ],

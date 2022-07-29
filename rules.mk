@@ -1,4 +1,4 @@
-SRC += derbonk.c
+SRC += Sturek.c
 
 # Common feature for all keyboards
 BOOTMAGIC_ENABLE = yes
