@@ -1,4 +1,4 @@
-SRC += newbie.c
+SRC += derbonk.c
 
 # Common feature for all keyboards
 BOOTMAGIC_ENABLE = yes
